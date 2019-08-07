@@ -1,5 +1,5 @@
 {
-  "name": "Task Management CRUD operation",
+  "name": "MERN-task-app",
   "version": "1.0.0",
   "description": "create task, edit task, fetch all task, fetch single task and delete task",
   "main": "index.js",
